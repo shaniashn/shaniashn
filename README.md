@@ -1,8 +1,8 @@
 # Hi, Sha Nia here!
 
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=shaniashn.shaniashn)-->
-[![Github](https://img.shields.io/github/followers/shaniashn?label=Follow&style=social)](https://github.com/shaniashn)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shaniashn.shaniashn) 
+<!--[![Github](https://img.shields.io/github/followers/shaniashn?label=Follow&style=social)](https://github.com/shaniashn)-->
+![visit count](https://visitor-badge.laobi.icu/badge?page_id=shaniashn.shaniashn) 
 <!--
 **shaniashn/shaniashn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
