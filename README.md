@@ -1,4 +1,5 @@
 # Hi, Sha Nia here!
+![](https://komarev.com/ghpvc/?username=shaniashn)
 <!--[![Github](https://img.shields.io/github/followers/shaniashn?label=Follow&style=social)](https://github.com/shaniashn)-->
 <!--![visit count](https://visitor-badge.laobi.icu/badge?page_id=shaniashn.shaniashn) -->
 
