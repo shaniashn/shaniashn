@@ -1,9 +1,9 @@
 
 ![](https://komarev.com/ghpvc/?username=shaniashn)
 
-###i am always passionately looking for ways to express my creative side and craft something. 
+### i am always passionately looking for ways to express my creative side and craft something. 
 
-###currently learn to cook with these tools:
+### currently learn to cook with these tools:
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Swift](https://img.shields.io/badge/SwiftUI-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
